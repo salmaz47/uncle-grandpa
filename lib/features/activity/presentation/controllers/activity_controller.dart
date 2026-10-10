@@ -1,4 +1,3 @@
-
 import 'package:flutter/foundation.dart';
 
 import '../../domain/entities/activity.dart';
